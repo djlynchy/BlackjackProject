@@ -1,8 +1,20 @@
 # Blackjack Project
 
-#Discription
-this blackjack program is to showcase my learned knowledge.
+## Description
 
-# technology used
+this blackjack program is to show case what i can do using object based programming
 
-# What i learned
+## technology used
+
+- java
+- objects in java
+- Abstraction
+- Polymorphism
+- Inheritance
+- Encapsulation
+- eclipse
+- git
+
+## What i learned
+
+keeping track of your objects can be rough. never be afraid to ask for help, or suggestions.
